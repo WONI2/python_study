@@ -1,2 +1,2 @@
 # python_study
-python for data
+python for Data Science Basic
